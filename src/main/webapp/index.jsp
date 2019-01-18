@@ -4,7 +4,7 @@
     </head>
     <body>
            <%
-                  out.println("Hello jianglinxin`");
+                  out.println("Hello Tiger");
            %>
     </body>
 </html>
